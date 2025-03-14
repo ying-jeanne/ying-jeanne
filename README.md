@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ying-Jeanne 👋  
 
-<!--
-**ying-jeanne/ying-jeanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Distributed Systems | Observability**  
 
-Here are some ideas to get you started:
+I'm a software engineer passionate about **scalability, distributed systems, and observability**. I have experience working on high-performance monitoring systems like **Grafana/Mimir**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 What I Work On  
+- **Observability & Monitoring** – Instrumentation, OpenTelemetry, Grafana Mimir  
+- **Distributed Systems** – Scalable architectures, real-time data processing  
+- **Backend Development** – Go, Python, databases
+- **Performance Optimization** 
+
+### 🛠️ Some Notable Work  
+- **Led OpenTelemetry migration** for a large-scale database observability system  
+- **Designed and implemented billing infrastructure** for Mimir usage tracking
+- **Contributed to open-source projects** in monitoring and cloud-native ecosystems  
+
+### 📬 Let's Connect!  
+- **GitHub**: You're already here! 🎉  
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/ying-jeanne-wang-72a36310a/)
+
+I’m always open to interesting discussions, collaborations, and new challenges! 🚀  

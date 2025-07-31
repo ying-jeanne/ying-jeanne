@@ -7,7 +7,7 @@ I'm a software engineer passionate about **scalability, distributed systems, and
 ### 🔹 What I Work On  
 - **Observability & Monitoring** – Instrumentation, OpenTelemetry, Grafana Mimir  
 - **Distributed Systems** – Scalable architectures, real-time data processing  
-- **Backend Development** – Go, Python, databases
+- **Backend Development** – Go, C++, databases
 - **Performance Optimization** 
 
 ### 🛠️ Some Notable Work  

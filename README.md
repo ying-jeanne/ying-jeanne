@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Distributed Systems | Observability**  
 
-I'm a software engineer passionate about **scalability, distributed systems, and observability**. I have experience working on high-performance monitoring systems like **Grafana/Mimir**.
+I'm a senior software engineer passionate about **scalability, distributed systems, and observability**. I have experience working on high-performance monitoring systems like **Grafana/Mimir**.
 
 ### 🔹 What I Work On  
 - **Observability & Monitoring** – Instrumentation, OpenTelemetry, Grafana Mimir  

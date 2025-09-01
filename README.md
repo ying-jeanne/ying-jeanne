@@ -1,8 +1,8 @@
 # Hi, I'm Ying-Jeanne 👋  
 
-🚀 **Software Engineer | Distributed Systems | Observability**  
+🚀 **Senior Software Engineer | Distributed Systems | Observability**  
 
-I'm a senior software engineer passionate about **scalability, distributed systems, and observability**. I have experience working on high-performance monitoring systems like **Grafana/Mimir**.
+I'm a senior software engineer passionate about **scalability, distributed systems, and observability**. I have experience working on high-performance monitoring systems like **Grafana/Mimir**. Currently learning AI/ML and enterpreneurship, happy to connect!
 
 ### 🔹 What I Work On  
 - **Observability & Monitoring** – Instrumentation, OpenTelemetry, Grafana Mimir  

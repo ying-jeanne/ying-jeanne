@@ -2,12 +2,12 @@
 
 🚀 **Senior Software Engineer | Distributed Systems | Observability**  
 
-I'm a senior software engineer passionate about **scalability, distributed systems, and observability**. I have experience working on high-performance monitoring systems like **Grafana/Mimir**. Currently learning AI/ML and enterpreneurship, happy to connect!
+I'm a senior software engineer passionate about **scalability, distributed systems, and observability**. I have experience working on high-performance monitoring systems as **Grafana/Mimir**. Nowadays, learning AI/ML and entrepreneurship. Happy to connect!
 
 ### 🔹 What I Work On  
 - **Observability & Monitoring** – Instrumentation, OpenTelemetry, Grafana Mimir  
 - **Distributed Systems** – Scalable architectures, real-time data processing  
-- **Backend Development** – Go, C++, databases
+- **Backend Development** – Go, C++, Python, databases
 - **Performance Optimization** 
 
 ### 🛠️ Some Notable Work  

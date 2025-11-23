@@ -1,4 +1,4 @@
-# Hi, I'm Ying-Jeanne 👋  
+# Hi, I'm Ying-Jeanne WANG 👋  
 
 🚀 **Senior Software Engineer | Distributed Systems | Observability**  
 

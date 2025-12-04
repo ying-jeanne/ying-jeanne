@@ -5,7 +5,7 @@
 I'm a senior backend engineer passionate about **open-source, scalability, distributed systems, and observability**. I have experience working on high-performance monitoring systems as **Grafana/Mimir**. Nowadays, learning AI/ML and entrepreneurship. Happy to connect!
 
 ### 🔹 What I Work On  
-- **Observability & Monitoring** – Instrumentation, OpenTelemetry, Grafana Mimir  
+- **Observability & Monitoring** – Instrumentation, OpenTelemetry, Grafana, Mimir
 - **Distributed Systems** – Scalable architectures, real-time data processing  
 - **Backend Development** – Go, C++, Python, databases
 - **Performance Optimization** 

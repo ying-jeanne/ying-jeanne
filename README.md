@@ -18,5 +18,6 @@ I'm a senior backend engineer passionate about **open-source, scalability, distr
 ### 📬 Let's Connect!  
 - **GitHub**: You're already here! 🎉  
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/ying-jeanne-wang-72a36310a/)
+- **Personal Website**: [Here](https://ying-jeanne.github.io/)
 
 I’m always open to interesting discussions, collaborations, and new challenges! 🚀  
